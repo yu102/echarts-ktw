@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <project>
+
+  </project>
+  <!-- highgis子主节点后缀 -->
+  <hgisQuery>/hgis/ows</hgisQuery>
+  <masterQuery>:8085/master/ows</masterQuery>
+</root>

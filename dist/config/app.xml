@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <!-- 应用程序配置 -->
+  <app>
+    <!-- 应用程序标题 -->
+    <title>数据资产领导驾驶舱</title>
+    <!-- 部门 -->
+    <department>广西自然资源遥感院</department>
+    <!-- 所有部门 -->
+    <departmentAll>
+      <item>
+        <code>0001</code>
+        <name>测绘工程分院</name>
+      </item>
+      <item>
+        <code>0002</code>
+        <name>摄影测量工程分院</name>
+      </item>
+      <item>
+        <code>0003</code>
+        <name>遥感信息工程分院</name>
+      </item>
+      <item>
+        <code>0004</code>
+        <name>资源环境工程分院</name>
+      </item>
+      <item>
+        <code>0005</code>
+        <name>空间信息工程分院</name>
+      </item>
+      <item>
+        <code>0006</code>
+        <name>应用研究分院</name>
+      </item>
+      <item>
+        <code>0007</code>
+        <name>监测中心</name>
+      </item>
+      <item>
+        <code>0008</code>
+        <name>质量管理科（总工办）</name>
+      </item>
+      <item>
+        <code>0009</code>
+        <name>业务管理科</name>
+      </item>
+      <item>
+        <code>0010</code>
+        <name>数据管理部</name>
+      </item>
+      <item>
+        <code>0011</code>
+        <name>人事科</name>
+      </item>
+      <item>
+        <code>0012</code>
+        <name>财务科</name>
+      </item>
+      <item>
+        <code>0013</code>
+        <name>办公室</name>
+      </item>
+      <item>
+        <code>0014</code>
+        <name>院部</name>
+      </item>
+    </departmentAll>
+    <!-- 地图 -->
+    <map>
+      <!-- 图层 -->
+      <layer>
+      </layer>
+      <!-- 标尺 -->
+        <scale>
+          <max>2500</max>
+          <min>0</min>
+        </scale>
+    </map>
+  </app>
+</root>
